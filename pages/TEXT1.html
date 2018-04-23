@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>PAGE/TEXT TITLE HERE</title>
+<meta charset="utf-8">
+<meta name="description" content="BRIEF DESCRIPTION OF PAGE/TEXT HERE">
+<meta name="author" content="YOUR AUTHOR NAME(S) GO(ES) HERE">
+<meta name="organization" content="First-Year Innovation and Research Experience (FIRE), in collaboration with African American History, Culture, and Digital Humanities (AADHum)">
+<meta name="funder" content="Andrew W. Mellon Foundation">
+
+<script src="../js/CETEI.js"></script>
+
+<link rel="stylesheet" href="../css/CETEIcean.css"/>
+<link rel="stylesheet" href="../css/style.css"/>
+
+</head>
+<body>
+
+<div id="TEI"></div>
+
+<script>
+var CETEIcean = new CETEI()
+CETEIcean.getHTML5("../YOURFIRSTXMLFILENAMEGOESHERE.xml", function(data) {
+document.getElementById("TEI").appendChild(data)
+})
+</script>
+
+</body>
+</html>
