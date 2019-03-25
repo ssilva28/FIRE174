@@ -1,4 +1,4 @@
-FIRE174
+<h1>FIRE174</h1>
 
 This repository provides a skeletal template for students enrolled in FIRE174-0101, an immersive research experience at the University of Maryland, College Park. Directed by Dr. Jessica H. Lu, students are exploring the intersections of African American rhetorical history, archives, and Black digital humanities to identify, collect, preserve, and analyze FREEDOM discourse, as constituted and argued by Black users online, using the <a href="http://tei-c.org">TEI</a> standard of scholarly markup. This project is currently advanced by: Lisa Anoruo, Nicole Balay, Menna Ibrahim, Hadley McCarthy, Cheyenne Montgomery, Chisom Okeke, Yasmine Pierre, Jasmin Pineda, Shanice Silva, Me'Aziah Wilson, and Nahome Yeshitila. Project alumni include Sophia Crooks, Kayla Graham, Kaanita Iyer, Ariana Lawson, Alice Liu, and Courtney Richardson.
 
@@ -19,3 +19,5 @@ THIS RESEARCH <b>AIMS</b> TO:
 This project is made possible by the support of the African American History, Culture, & Digital Humanities (AADHum) initiative, the First-Year Innovation and Research Experience (FIRE), and the Maryland Institute for Technology in the Humanities (MITH) at the University of Maryland, College Park.
 
 All questions and concerns can be directed to Jessica H. Lu, via jhl dot jessica at gmail dot com.
+
+<i>Last updated 25 March 2019</i>
